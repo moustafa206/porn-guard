@@ -5,7 +5,7 @@ import requests
 import browserhistory as detect
 import csv
 p = "porn"
-d = input('How many days without Haha:')
+d = input('How many days without porn:')
 b = int(d * 86400)
 a = 0
 k = 43200
